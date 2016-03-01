@@ -1,2 +1,2 @@
-# IOS-course-stackview-excercise
+# stackview-excercise
 Stack view exercise 
